@@ -1,0 +1,63 @@
+.titulo {
+    color: rgb(0, 170, 170);
+    padding: 10px 25px 10px 25px;
+}
+
+.imagem1 {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.imagem2 {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.conteudo1 {
+    font-size: 14px;
+    color: rgb(39, 137, 194);
+    background-color: azure;
+    border-width: 5px solid rgb(138, 198, 248);
+    border-style: dashed;
+
+    margin:  25px 25px 25px 25px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+
+.conteudo2 {
+    font-size: 14px;
+    color: rgb(98, 39, 194);
+    background-color: rgb(252, 240, 255);
+    border-width: 5px solid rgb(143, 90, 192);
+    border-style: dashed;
+
+    margin:  25px 25px 25px 25px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+
+}
+
+.conteudo3 {
+    font-size: 14px;
+    color: rgb(194, 39, 78);
+    background-color: rgb(255, 202, 216);
+    border-width: 5px solid rgb(192, 90, 121);
+    border-style: dashed;
+
+    margin:  25px 25px 25px 25px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+}
+
+.linha {
+    display: flex;
+    justify-content: center;
+}
